@@ -15,7 +15,7 @@ This project focuses on **segmenting customers** of a shopping mall based on the
 ---
 
 ## 🛠️ Technologies Used
-- **Python** 🐍  
+- **Python** 
 - Libraries:
   - `pandas` → Data manipulation  
   - `matplotlib`, `seaborn` → Data visualization  
